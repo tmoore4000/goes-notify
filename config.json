@@ -3,17 +3,17 @@
   "enrollment_location_id": "",
   "logfile": "",
 
-  "email_from": "",
-  "email_to": [""],
+  "email_from": "tmoore4000@gmail.com",
+  "email_to": ["tmoore4000@gmail.com"],
   "email_server": "localhost",
   "email_port": 25,
   "email_username": "",
   "email_password": "",
 
   "__comment": "Below are optional:",
-  "use_gmail": true,
+  "use_gmail": false,
   "gmail_password": "",
-  "no_email": false,
+  "no_email": True,
   "no_spamming": true,
 
   "notify_osx": false,
